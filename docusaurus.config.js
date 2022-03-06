@@ -8,12 +8,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Ace',
   tagline: 'Technology',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://ace-software-development.github.io/Manual-de-Operaciones/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
+  organizationName: 'Ace', // Usually your GitHub org/user name.
   projectName: 'Ace documentation', // Usually your repo name.
 
   presets: [
@@ -101,7 +101,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/Ace-Software-Development/Manual-de-Operaciones',
               },
             ],
           },
