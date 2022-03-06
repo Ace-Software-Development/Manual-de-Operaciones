@@ -6,15 +6,15 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Ace',
-  tagline: 'Technology',
-  url: 'https://ace-software-development.github.io/Manual-de-Operaciones/',
+  title: 'My Site',
+  tagline: 'Dinosaurs are cool',
+  url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'Ace', // Usually your GitHub org/user name.
-  projectName: 'Ace documentation', // Usually your repo name.
+  organizationName: 'Ace-Software-Development', // Usually your GitHub org/user name.
+  projectName: 'Manual-de-Operaciones', // Usually your repo name.
 
   presets: [
     [
@@ -57,7 +57,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/Ace-Software-Development/Manual-de-Operaciones',
             label: 'GitHub',
             position: 'right',
           },
