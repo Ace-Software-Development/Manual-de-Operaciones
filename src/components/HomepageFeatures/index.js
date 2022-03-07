@@ -4,42 +4,42 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Campanario',
+    imagen: "https://realestatemarket.com.mx/images/2021/06-junio/0206/El_Campanario_Alta_Editada.jpg",
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        División encargada de desarrollar una app compatible con IOs y Android para 
+        el Club Campestre el Campanario
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'NefroVida',
+    imagen: "https://i1.wp.com/www.gente-bien.mx/wp-content/uploads/2021/07/IMG-20210712-WA0049.jpg?resize=1024%2C678&ssl=1",
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        División encargada de crear un sistema de historias de pacientes para automatizar
+        los resultados de laboratorio y la consulta con los médicos de la organización NefroVida
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Aluminio Monarca',
+    imagen: "https://aluminiomonarca.mx/img/logo.svg",
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        División encargada del desarrollo de un sistema de control de inventario para la
+        empresa Aluminio Monarca.
       </>
     ),
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({imagen, title, description}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} alt={title} />
+        <img src={imagen} className={styles.featureSvg} alt={title} />
       </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
