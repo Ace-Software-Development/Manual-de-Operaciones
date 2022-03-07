@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmanuales=self.webpackChunkmanuales||[]).push([[222],{8579:function(a){a.exports=JSON.parse('{"allTagsPath":"/Manual-de-Operaciones/blog/tags","slug":"/Manual-de-Operaciones/blog/tags/hola","name":"hola","count":1,"permalink":"/Manual-de-Operaciones/blog/tags/hola"}')}}]);
