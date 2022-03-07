@@ -1,5 +1,6 @@
 # G01_Uso de Markdown
 
+
 ## Objetivo
 Mantener actualizada la wiki permitiendo que cada miembro del equipo conozca la sintaxis de markdown. 
 
