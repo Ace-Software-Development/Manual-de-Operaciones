@@ -2,7 +2,7 @@
 
 ## Versión
 
-1.0
+1.0.0
 
 ## Consideraciones a tomar
 - Se debe utilizar este proceso durante el inicio de un proyecto para definir tanto el stack tecnológico como la arquitectura del mismo. Esto tomando en cuenta los requerimientos del proyecto, limitantes y el equipo de trabajo.
