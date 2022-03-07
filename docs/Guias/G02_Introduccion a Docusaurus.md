@@ -29,13 +29,13 @@ Mantener actualizada la wiki permitiendo que cada miembro del equipo sea capaz d
         ```
     * Desplegar en el servidor
     Git Bash: 
-        ```
+        
         GIT_USER=<GITHUB_USERNAME> yarn deploy
-        ```
+        
     Windows terminal: 
-        ```
+        
         cmd /C "set "GIT_USER=<GITHUB_USERNAME>" && yarn deploy"
-        ```
+        
     > Donde `<GITHUB_USERNAME>` deberá ser remplazado con tu nombre de usuario de la cuenta que estes usando en el proyecto de Github.
 
 ## Control de Versiones.

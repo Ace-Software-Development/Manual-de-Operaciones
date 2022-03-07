@@ -17,7 +17,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="docs/QuienesSomos/">
-            ¡Revisa nuesrta Wiki!
+            ¡Revisa nuestra Wiki!
           </Link>
         </div>
       </div>

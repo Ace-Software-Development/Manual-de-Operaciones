@@ -8,7 +8,7 @@ const FeatureList = [
     imagen: 'https://images.pexels.com/photos/7758348/pexels-photo-7758348.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
     description: (
       <>
-        División encargada de desarrollar una app compatible con IOs y Android para 
+        División encargada de desarrollar una app compatible con iOS y Android para 
         el Club Campestre el Campanario
       </>
     ),
