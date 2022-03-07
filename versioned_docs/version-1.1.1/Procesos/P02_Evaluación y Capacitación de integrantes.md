@@ -1,9 +1,4 @@
 # P02_Proceso de Evaluación y Capacitación de Integrantes
-## Versión 
-
-1.0.0
-
-
 ## Objetivo
 
 Establecer los pasos necesarios para la evaluación y capacitación de los integrantes de un nuevo equipo. 
@@ -11,7 +6,7 @@ Establecer los pasos necesarios para la evaluación y capacitación de los integ
 ## Criterios de entrada
 * Identificar las tecnologías requeridas en el desarrollo. 
 
-* El integrante deberá llenar la siguiente tabla, posicionándose en uno de los niveles (N/A, Básico, Intermedio, Avanzado) en base a sus conocimientos y experiencia previa. 
+* El integrante deberá llenar la siguiente tabla, posicionándose en uno de los niveles (N/A, Básico, Intermedio, Avanzado) con base en sus conocimientos y experiencia previa. 
  
 * Tabla de habilidades del equipo. 
  
@@ -28,7 +23,7 @@ Establecer los pasos necesarios para la evaluación y capacitación de los integ
 
 2) Con base en las habilidades del equipo el arquitecto debe asegurarse de que los integrantes que requieran capacitación reciban acceso a los recursos necesarios para alcanzar un nivel Intermedio como mínimo. 
 
-3) Durante el tiempo que el integrante esté en capacitación, éste deberá realizar sus actividades (Pair programming) acompañado por un integrante con un dominio superior de la tecnología en caso de ser posible. 
+3) Durante el tiempo que el integrante esté en capacitación, este deberá realizar sus actividades (Pair programming) acompañado por un integrante con un dominio superior de la tecnología en caso de ser posible. 
 
 ## Criterios de salida
 1) Tabla de habilidades del equipo actualizada. 

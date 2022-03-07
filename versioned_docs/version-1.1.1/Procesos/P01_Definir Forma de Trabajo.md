@@ -1,9 +1,4 @@
 # P01_Definición de la Forma de Trabajo(WoW)
-## Versión 
-
-1.0.0
-
-
 ## Objetivo
 
 Adoptar prácticas que nos permitan lograr los objetivos del departamento.  
@@ -12,7 +7,7 @@ Adoptar prácticas que nos permitan lograr los objetivos del departamento.
 
 * Propuestas de mejora de nuestra forma de trabajo
 
-* Solucitud de cambios de los miembros del departamento
+* Solicitud de cambios de los miembros del departamento
 
 ## Procedimiento
  

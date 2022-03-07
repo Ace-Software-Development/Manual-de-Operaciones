@@ -32,17 +32,17 @@ Mantener actualizada la wiki permitiendo que cada miembro del equipo conozca la 
     + Lista 2
     - Lista 3
     1. Lista 4
-    2.  Si quieres multiples parrafos en tu texto.
-        Debes usar el tabulador despues del número.
+    2.  Si quieres múltiples párrafos en tu texto.
+        Debes usar el tabulador después del número.
     3. > También se pueden poner citas en bloque dentro de la lista. 
 
 * Lista 1
 + Lista 2
 - Lista 3
 1. Lista 4
-2.  Si quieres multiples parrafos en tu texto.
+2.  Si quieres múltiples párrafos en tu texto.
 
-    Debes usar el tabulador despues del número y en cada linea que este en este elemento.
+    Debes usar el tabulador después del número y en cada linea que este en este elemento.
 3. > También se pueden poner citas en bloque dentro de la lista. 
 
 ### Bloques 
@@ -91,9 +91,9 @@ _Itálicas 2_
 **Negritas 1**
 __Negritas 2__
 
-    Tambien se puede usar en medio de una p**alabr**a
+    También se puede usar en medio de una p**alabr**a
 
-Tambien se puede usar en medio de una p**alabr**a
+También se puede usar en medio de una p**alabr**a
 
     Se puede indicar `bloques` dentro de un párrafo lo cual da énfasis.
 
