@@ -1,4 +1,4 @@
-# PL04_Creación de Procesos
+# PL04_Acta de Proyecto
 
 ## Objetivo
 Tener un documento que nos permita vizualizar el alcance del proyecto, las funcionalidades, tecnologías e involucrados del mismo. Permite a los clientes tener una mejor visión de la solución que se les dará y genera una constancia de que todos los involucrados están enterados y aceptan este plan. 

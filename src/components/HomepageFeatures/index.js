@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Campanario',
-    imagen: "https://realestatemarket.com.mx/images/2021/06-junio/0206/El_Campanario_Alta_Editada.jpg",
+    imagen: 'https://images.pexels.com/photos/7758348/pexels-photo-7758348.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
     description: (
       <>
         División encargada de desarrollar una app compatible con IOs y Android para 
@@ -15,7 +15,7 @@ const FeatureList = [
   },
   {
     title: 'NefroVida',
-    imagen: "https://i1.wp.com/www.gente-bien.mx/wp-content/uploads/2021/07/IMG-20210712-WA0049.jpg?resize=1024%2C678&ssl=1",
+    imagen: 'https://images.pexels.com/photos/40568/medical-appointment-doctor-healthcare-40568.jpeg?cs=srgb&dl=pexels-pixabay-40568.jpg&fm=jpg',
     description: (
       <>
         División encargada de crear un sistema de historias de pacientes para automatizar
@@ -25,7 +25,7 @@ const FeatureList = [
   },
   {
     title: 'Aluminio Monarca',
-    imagen: "https://aluminiomonarca.mx/img/logo.svg",
+    imagen: 'https://images.pexels.com/photos/5532835/pexels-photo-5532835.jpeg?cs=srgb&dl=pexels-cottonbro-5532835.jpg&fm=jpg',
     description: (
       <>
         División encargada del desarrollo de un sistema de control de inventario para la
