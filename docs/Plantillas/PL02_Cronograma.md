@@ -1,4 +1,4 @@
-# Plantilla del cronograma
+# PL02_Cronograma
 ## Versión 
 
 1.0.0

@@ -1,4 +1,4 @@
-# Uso de Markdown
+# G01_Uso de Markdown
 
 ## Versión 
 1.0.0
@@ -65,7 +65,7 @@ Este bloque tiene comillas francesas
 
 ### Lineas de separación 
 
-    * * * * * * * * 
+    * * *  
     ***
     *****
     - - -
@@ -75,3 +75,42 @@ Este bloque tiene comillas francesas
 *****
 - - -
 ---------------
+
+### Links
+    Para poner un link se debe poner entre [] la palabra que queremos que se vea 
+    y entre () el link al que queremos que se dirija.
+    [Google](https://www.google.com/)
+
+[Google](https://www.google.com/) 
+
+### Énfasis
+
+    *Itálicas 1*
+    _Itálicas 2_
+    **Negritas 1**
+    __Negritas 2__
+
+*Itálicas 1*
+_Itálicas 2_
+**Negritas 1**
+__Negritas 2__
+
+    Tambien se puede usar en medio de una p**alabr**a
+
+Tambien se puede usar en medio de una p**alabr**a
+
+    Se puede indicar `bloques` dentro de un párrafo lo cual da énfasis.
+
+Se puede indicar `bloques` dentro de un párrafo lo cual da énfasis.
+
+### Imágenes
+
+    Para añadir imágines 
+    ![Gatito](https://placekitten.com/200/300) 
+
+![Gatito](https://placekitten.com/200/300)
+
+
+
+
+
