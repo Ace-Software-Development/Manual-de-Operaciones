@@ -12,7 +12,7 @@ const config = {
   baseUrl: '/Manual-de-Operaciones/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: '/img/ACE/AceLogo5.png',
   organizationName: 'Ace-Software-Development', // Usually your GitHub org/user name.
   projectName: 'Manual-de-Operaciones', // Usually your repo name.
 
@@ -45,8 +45,8 @@ const config = {
       navbar: {
         title: 'Ace',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'ACE Logo',
+          src: '/img/ACE/AceLogo5.png',
         },
         items: [
           {
@@ -65,7 +65,7 @@ const config = {
       footer: {
         style: 'dark',
         links: [
-          {
+            {
             title: 'Docs',
             items: [
               {
