@@ -12,3 +12,4 @@ Encuentra todos los formatos que usamos en ACE
 9. [📋 Definición de Requerimientos](PL09_Requerimientos.md)
 10. [🛣️ Fase de Inicio](PL10_Fase%20de%20inicio.md)
 11. [⏱️ WBS](PL11_WBS.md)
+12. [⚠️ Plan de Riesgos](PL12_Plan%20de%20Riesgos.md)
