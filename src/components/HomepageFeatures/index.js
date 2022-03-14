@@ -24,8 +24,8 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Aluminio Monarca',
-    imagen: 'https://images.pexels.com/photos/5532835/pexels-photo-5532835.jpeg?cs=srgb&dl=pexels-cottonbro-5532835.jpg&fm=jpg',
+    title: 'BlackJack',
+    imagen: "/img/ACE/AceLogo5.png",
     description: (
       <>
         División encargada del desarrollo de un sistema de control de inventario para la

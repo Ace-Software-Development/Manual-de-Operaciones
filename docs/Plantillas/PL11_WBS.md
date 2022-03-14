@@ -1,10 +1,13 @@
-# PL11_Fase de inicio
+# PL11_WBS
 
 ## Objetivo
-Generar un sistema de estimaciones por iteración.
+Tener una forma visual de todas las tareas y etapas que tendrá un plan.
 
 ## Acceso a la plantilla 
-[Plantilla WBS](https://docs.google.com/spreadsheets/d/1KUlIE2h5BbSvFUdRaUvG-2MRmcn5E80fdC3vp7Wk4kw/edit?usp=sharing)
+Se puede usar la plantilla creada en Figma o pueden generar el WBS en la aplicación que más les guste de diagramado. 
+[Plantilla WBS](https://www.figma.com/file/LcfLYsJ7ValK18iem2S7oA/Untitled?node-id=0%3A1)
+![Ejemplo WBS](https://www.iebschool.com/blog/wp-content/uploads/2021/11/WBS-basada-en-fases.jpg)
+
 
 ## Área
 * PP - Project Planning 
