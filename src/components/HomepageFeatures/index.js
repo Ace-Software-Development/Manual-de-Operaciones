@@ -4,8 +4,8 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Campanario',
-    imagen: 'https://images.pexels.com/photos/7758348/pexels-photo-7758348.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
+    title: 'Royal Flush',
+    imagen: './img/ACE/royal flush.webp',
     description: (
       <>
         División encargada de desarrollar una app compatible con iOS y Android para 
@@ -25,7 +25,7 @@ const FeatureList = [
   },
   {
     title: 'BlackJack',
-    imagen: "/img/ACE/AceLogo5.png",
+    imagen: './img/ACE/BlackJack.jpg',
     description: (
       <>
         División encargada del desarrollo de un sistema de control de inventario para la
