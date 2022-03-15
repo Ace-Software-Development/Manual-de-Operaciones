@@ -1,4 +1,4 @@
-# PO5_Proceso de Aceptación de Requisitos
+# P05_Proceso de Aceptación de Requisitos
 
 
 ## Consideraciones importantes
