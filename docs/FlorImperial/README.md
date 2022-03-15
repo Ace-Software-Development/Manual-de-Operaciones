@@ -1,6 +1,6 @@
-# Royal Flush
+# Flor Imperial
 
-Royal Flush es un equipo del departamento ACE Technology. Todas nuestras políticas, procesos y plantillas se basan en la forma de trabajo del departamento, en caso de requerir cambios serán documentados en la Wiki del equipo. 
+Flor Imperial es un equipo del departamento ACE Technology. Todas nuestras políticas, procesos y plantillas se basan en la forma de trabajo del departamento, en caso de requerir cambios serán documentados en la Wiki del equipo. 
 
 #### Integrantes:
 *   Daniel Cruz Arciniega

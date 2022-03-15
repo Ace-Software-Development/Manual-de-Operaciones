@@ -4,7 +4,7 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Royal Flush',
+    title: 'Flor Imperial',
     imagen: './img/ACE/royal flush.webp',
     description: (
       <>
