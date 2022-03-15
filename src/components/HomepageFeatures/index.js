@@ -8,17 +8,17 @@ const FeatureList = [
     imagen: './img/ACE/royal flush.webp',
     description: (
       <>
-        División encargada de desarrollar una app compatible con iOS y Android para 
+        Equipo encargado de desarrollar una app compatible con iOS y Android para 
         el Club Campestre el Campanario
       </>
     ),
   },
   {
-    title: 'NefroVida',
-    imagen: 'https://images.pexels.com/photos/40568/medical-appointment-doctor-healthcare-40568.jpeg?cs=srgb&dl=pexels-pixabay-40568.jpg&fm=jpg',
+    title: 'Full House',
+    imagen: './img/ACE/Full House.jpg',
     description: (
       <>
-        División encargada de crear un sistema de historias de pacientes para automatizar
+        Equipo encargado de crear un sistema de historias de pacientes para automatizar
         los resultados de laboratorio y la consulta con los médicos de la organización NefroVida
       </>
     ),
@@ -28,7 +28,7 @@ const FeatureList = [
     imagen: './img/ACE/BlackJack.jpg',
     description: (
       <>
-        División encargada del desarrollo de un sistema de control de inventario para la
+        Equipo encargado del desarrollo de un sistema de control de inventario para la
         empresa Aluminio Monarca.
       </>
     ),

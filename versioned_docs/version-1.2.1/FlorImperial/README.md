@@ -1,15 +1,16 @@
-# NefroVida
+# Flor Imperial
 
-Nefro Team siendo un equipo líder y a la vanguardia en el desarrollo de software, conseguirá resolver la problemática del Socio Formador de manera exitosa. 
-Se ofrecerá acceso en menos de 2 minutos al historial clínico del paciente durante su consulta.
+Flor Imperial es un equipo del departamento ACE Technology. Todas nuestras políticas, procesos y plantillas se basan en la forma de trabajo del departamento, en caso de requerir cambios serán documentados en la Wiki del equipo. 
 
 #### Integrantes:
-*   Andrea Piñeiro Cavazos
-*   Carolina Herrera Martínez
-*   David Guzmán Leyva
-*   Eduardo Rodríguez Gil
-*   Felipe Gabriel Yépez Villacreses
-*   Manolo Ramírez Pintor
+*   Daniel Cruz Arciniega
+*   Diego Carrillo Torres
+*   Enrique Santos Fraire
+*   Joaquín Zermeño Saldaña
+*   Julio César Gómez González
+*   Luis Edgar Ramírez Pérez
+*   Michelle Aylin Calzada Montes
+*   Rafael Hinojosa López
 
 
 -------
