@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Flor Imperial',
-    imagen: './img/ACE/royal flush.webp',
+    imagen: './img/ACE/royal-flush@4x.png',
     description: (
       <>
         Equipo encargado de desarrollar una app compatible con iOS y Android para 
@@ -15,7 +15,7 @@ const FeatureList = [
   },
   {
     title: 'Full House',
-    imagen: './img/ACE/Full House.jpg',
+    imagen: './img/ACE/full-house@4x.png',
     description: (
       <>
         Equipo encargado de crear un sistema de historias de pacientes para automatizar
@@ -25,7 +25,7 @@ const FeatureList = [
   },
   {
     title: 'BlackJack',
-    imagen: './img/ACE/BlackJack.jpg',
+    imagen: './img/ACE/blackjack@4x.png',
     description: (
       <>
         Equipo encargado del desarrollo de un sistema de control de inventario para la
