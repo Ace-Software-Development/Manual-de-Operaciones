@@ -24,8 +24,8 @@
 
 | Responsable(s) | Actividad |
 | --- | --- |
-| Arquitecture Owner y General Arquitect | Teniendo en cuenta tanto los requerimientos funcionales y no funcionales definir la arquitectura del proyecto. Llenar la tabla de tecnologías con su justificación y fecha de creación/actualización. |
-| Arquitecture Owner y General Arquitect | Comenzar el diagrama de arquitectura basándose en el ejemplo de la guía. Se sugiere que este incluya los diferentes componentes, ambientes y relaciones (entre los componentes y sistemas externos) para visualizar el alcance y limitantes del proyecto. |
+| Arquitecture Owner  | Teniendo en cuenta tanto los requerimientos funcionales y no funcionales definir la arquitectura del proyecto. Llenar la tabla de tecnologías con su justificación y fecha de creación/actualización. |
+| Arquitecture Owner | Comenzar el diagrama de arquitectura basándose en el ejemplo de la guía. Se sugiere que este incluya los diferentes componentes, ambientes y relaciones (entre los componentes y sistemas externos) para visualizar el alcance y limitantes del proyecto. |
 | Product Manager | Añadir el avance al Acta de proyecto. |
 
 
@@ -34,8 +34,8 @@
 
 | Responsable(s) | Actividad |
 | --- | --- |
-| Product Manager y Arquitecture Owner | En caso de haber cambios en los requerimientos que involucren la arquitectura, documentarlos en la plantilla con las fechas y justificaciones correspondientes. Actualizar el diagrama de arquitectura donde aplique y actualizar la versión del documento. |
-| Product Manager, Arquitecture Owner y General Arquitect | En caso de haber cambios en los requerimientos que involucren modificaciones **considerables** en la arquitectura (Ejemplos: Modificaciones al esquema de datos, cambiar tecnologías) comunicarse con el General Arquitect. Queda a criterio del equipo y el Arquitecture Owner cuando estas modificaciones requieran atención de los roles externos al equipo. |
+| Product Owner y Arquitecture Owner | En caso de haber cambios en los requerimientos que involucren la arquitectura, documentarlos en la plantilla con las fechas y justificaciones correspondientes. Actualizar el diagrama de arquitectura donde aplique y actualizar la versión del documento. |
+| Product Owner y Arquitecture Owner | En caso de haber cambios en los requerimientos que involucren modificaciones **considerables** en la arquitectura (Ejemplos: Modificaciones al esquema de datos, cambiar tecnologías) comunicarlo con los stakeholders utilizando los medios establecidos en el plan de comunicación. |
 
 ## Criterios de salida
 

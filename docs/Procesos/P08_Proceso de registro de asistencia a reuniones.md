@@ -1,4 +1,4 @@
-# P08_Proceso de asistencia a reuniones
+# P08_Proceso de registro asistencia a reuniones
 ## Objetivo
 
 Llevar un registro de asistencia en las reuniones presenciales para gestionar el aforo del salón.
