@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmanuales=self.webpackChunkmanuales||[]).push([[2500],{11427:function(a){a.exports=JSON.parse('{"allTagsPath":"/Manual-de-Operaciones/blog/tags","slug":"/Manual-de-Operaciones/blog/tags/docusaurus","name":"docusaurus","count":4,"permalink":"/Manual-de-Operaciones/blog/tags/docusaurus"}')}}]);

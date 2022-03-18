@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmanuales=self.webpackChunkmanuales||[]).push([[2091],{19118:function(e){e.exports=JSON.parse('{"permalink":"/Manual-de-Operaciones/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
