@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmanuales=self.webpackChunkmanuales||[]).push([[4745],{88807:function(e){e.exports=JSON.parse('{"permalink":"/Manual-de-Operaciones/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
