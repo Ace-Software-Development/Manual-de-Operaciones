@@ -30,7 +30,7 @@ Ser el departamento líder en el desarrollo de soluciones de software para empre
 | --- | --- | --- |
 |Índice de felicidad departamental|>95%|85%|
 |Número de defectos críticos lanzados a producción|0|N/A|
-|Índice de satisfacción por parte de los clientes|<90%| |
+|Índice de satisfacción por parte de los clientes|>90%| |
 |Nivel de CMMI validado|3| | 
 
 *Nota* *Las métricas de felicidad y satisfacción son medidas con encuestas a los miembros del departamento o a los clientes respectivamente. Esta medida se basa en valores subjetivos que nos dan los involucrados. 
