@@ -25,6 +25,18 @@ Ser el departamento líder en el desarrollo de soluciones de software para empre
 2.  Llegar a un nivel 3 en el CMMI durante el tercer periodo del semestre.
 3.  Formar un ambiente de trabajo que propicie motivación y confianza en el departamento
 
+### Métricas departamentales
+| Métrica | Objetivo | Resultado 15/03/2022 |
+| --- | --- | --- |
+|Índice de felicidad departamental|>95%|85%|
+|Número de defectos críticos lanzados a producción|0|N/A|
+|Índice de satisfacción por parte de los clientes|<90%| |
+|Nivel de CMMI validado|3| | 
+
+*Nota* *Las métricas de felicidad y satisfacción son medidas con encuestas a los miembros del departamento o a los clientes respectivamente. Esta medida se basa en valores subjetivos que nos dan los involucrados. 
+
+
+
 ## Equipo ACE
 #### Program managers:
 *   Adriana Millares Forno
