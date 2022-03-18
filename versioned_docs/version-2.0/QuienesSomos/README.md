@@ -57,6 +57,9 @@ El departamento de ACE y todos sus equipos seguirán el ciclo de vida básico de
 ## WBS
 [Consulta nuestro WBS](./img/WBS_Departamental.svg)
 
+## Matriz de riesgos
+[Consulta nuestra Matriz de Riesgos](https://docs.google.com/spreadsheets/d/1PzTUtLSXY0PZ8IQI7yHRRp1WNh1RJXBEK6jNZeoHTGc/edit?usp=sharing)
+
 ## Agradecimientos
 Gracias a todos los departamentos anteriores a ACE por brindarnos su conocimiento por medio de la documentación de sus wikis, así como heredar prácticas sanas para la consolidación de un departamento de TI.
 
