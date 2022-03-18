@@ -48,7 +48,7 @@ Cada equipo dentro del departamento deberá de gestionar su propio trabajo y deb
 *   Guías, plantillas y otros documentos de apoyo.
 *   Procesos.
 
-En caso de que todos los equipos adquieran una práctica, esta se volverá una práctica departamental. Las practicas departamentales deben ser seguidas por cada equipo. En caso de ser modificadas por estos cambios deberán ser documentados y publicados en la Wiki del equipo que realizó los cambios.
+En caso de que todos los equipos adquieran una práctica, esta se volverá una práctica departamental. Las practicas departamentales deben ser seguidas por cada equipo. En caso de ser modificadas, se deberán documentar los cambios y publicarlos en la Wiki del equipo que realizó los cambios.
 
 ## Ciclo de vida 
 El departamento de ACE y todos sus equipos seguirán el ciclo de vida básico de DAD.
