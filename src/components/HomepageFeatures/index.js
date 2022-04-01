@@ -4,42 +4,42 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Flor Imperial',
+    imagen: './img/ACE/royal-flush@4x.png',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Equipo encargado de desarrollar una app compatible con iOS y Android para 
+        el Club Campestre el Campanario
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Full House',
+    imagen: './img/ACE/full-house@4x.png',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Equipo encargado de crear un sistema de historias de pacientes para automatizar
+        los resultados de laboratorio y la consulta con los médicos de la organización NefroVida
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'BlackJack',
+    imagen: './img/ACE/blackjack@4x.png',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Equipo encargado del desarrollo de un sistema de control de inventario para la
+        empresa Aluminio Monarca.
       </>
     ),
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({imagen, title, description}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} alt={title} />
+        <img src={imagen} className={styles.featureSvg} alt={title} />
       </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
